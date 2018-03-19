@@ -1,6 +1,6 @@
-# app
+# 音乐播放器单页面
 
-> text
+> vue2.0+webpack3.0+node.js环境 npm包管理
 
 ## Build Setup
 
